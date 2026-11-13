@@ -29,5 +29,5 @@ My first Suricata Intrusion Detection System (IDS) project.
 - `evidence/screenshots/` - Screenshots of setup and alerts
 
   ## What I Learned
-  I learnt how to set up a virtual lab, configure Suricata on Ubuntu, write a Suricata rule, generate traffic from kali, and as well detect it with Suricata
-  
+  I learnt how to set up a virtual lab, configure Suricata on Ubuntu, write a Suricata rule, generate traffic from kali, and as well detect it with Suricata.
+  Here, The rule tells Suricata to watch for ICMP ping traffic. any any means any computer, any port, so any ping from anywhere will trigger it. When it triggers, Suricata writes the message SURICATA ICMP TEST ALERT in the log, with the rule ID 1000001 and version rev:1.
