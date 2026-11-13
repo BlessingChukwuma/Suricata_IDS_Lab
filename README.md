@@ -31,6 +31,3 @@ My first Suricata Intrusion Detection System (IDS) project.
   ## What I Learned
   I learnt how to set up a virtual lab, configure Suricata on Ubuntu, write a Suricata rule, generate traffic from kali, and as well detect it with Suricata
   
-
-## What I Learned
-How to write a Suricata rule, run Suricata, and check alerts to detect network traffic. 
